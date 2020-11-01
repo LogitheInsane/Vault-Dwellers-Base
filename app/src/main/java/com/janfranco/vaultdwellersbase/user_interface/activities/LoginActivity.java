@@ -42,6 +42,7 @@ public class LoginActivity extends AppCompatActivity {
     private MarinaService mMarinaService;
     private SharedPreferencesService sharedPref;
 
+    // Canberk Comment
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
